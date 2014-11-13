@@ -11,12 +11,12 @@ SVMOneClAS
 		4. Gene length
 		5. Number of exons
 
-2. Runing the script
+2. Runing the script:
 	One can use test data in order to run script
 	Example:
 		python script.py ref_final.txt alt_final.txt, where ref_final - train data and alt_final - test data
 
-3. Output
+3. Output:
 	Script outputs file results.txt with just one column, where "1" means that this particular event was described as a potential novel and "-1" means that this event was not described as novel
 
 4. In order to run a scdript one should have:
