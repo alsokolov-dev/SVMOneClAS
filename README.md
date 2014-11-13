@@ -1,7 +1,7 @@
 SVMOneClAS
 ==========
-1. Input data  
-	In order to run a script one should have two files:  
+1. Input data <br/>  
+	In order to run a script one should have two files:<br/>  
 		1. Input for train data (canonical event of alternative splicing)  
 		2. Input for test data (potential new event of alternative splicing)  
 	Each have consists of 4 columns:
