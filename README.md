@@ -2,8 +2,8 @@ SVMOneClAS
 ==========
 1. Input data <br/>  
 	In order to run a script one should have two files:<br/>  
-		1. Input for train data (canonical event of alternative splicing)  
-		2. Input for test data (potential new event of alternative splicing)  
+		1. Input for train data (canonical event of alternative splicing)<br/>  
+		2. Input for test data (potential new event of alternative splicing)<br/>  
 	Each have consists of 4 columns:
 		1. Id of transcript
 		2. Number of reads mapped on this particular splice junction
